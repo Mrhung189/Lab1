@@ -1,0 +1,52 @@
+﻿body {
+}
+.top_bar {
+    border: 1px solid black;
+    margin-right: 100px;
+    margin-left: 100px;
+    width: 1200px;
+    height: 40px;
+    background-color: red;
+}
+.content {
+    border: 1px solid black;
+    width: 1200px;
+    min-height: 800px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.hinhanh {
+    border: 1px solid red;
+    width: 100%;
+    height: auto;
+
+}
+.div1{
+    border: 1px solid pink;
+    width: 40%;
+    height: 500px;
+    float: left;
+    background-color: yellow;
+}
+.div2 {
+    border: 1px solid green;
+    width: 25%;
+    height: 500px;
+    float:left;
+    background-color: darkblue;
+}
+.div3 {
+    border: 1px solid green;
+    width: 34.5%;
+    height: 500px;
+    float: right;
+    background-color: blueviolet;
+}
+.quangcao {
+    border: 1px solid black;
+    margin-right: 100px;
+    margin-left: 100px;
+    width: 1200px;
+    height: 100px;
+    background-color: darkorange;
+}
